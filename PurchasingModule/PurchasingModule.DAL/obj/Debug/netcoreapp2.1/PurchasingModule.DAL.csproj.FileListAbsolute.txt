@@ -1,0 +1,8 @@
+C:\Users\ionit\Desktop\Everything in one place\facultate\an 3\sem 1\AOS\TemaFinala\PurchasingModule\PurchasingModule.DAL\bin\Debug\netcoreapp2.1\PurchasingModule.DAL.deps.json
+C:\Users\ionit\Desktop\Everything in one place\facultate\an 3\sem 1\AOS\TemaFinala\PurchasingModule\PurchasingModule.DAL\bin\Debug\netcoreapp2.1\PurchasingModule.DAL.dll
+C:\Users\ionit\Desktop\Everything in one place\facultate\an 3\sem 1\AOS\TemaFinala\PurchasingModule\PurchasingModule.DAL\bin\Debug\netcoreapp2.1\PurchasingModule.DAL.pdb
+C:\Users\ionit\Desktop\Everything in one place\facultate\an 3\sem 1\AOS\TemaFinala\PurchasingModule\PurchasingModule.DAL\obj\Debug\netcoreapp2.1\PurchasingModule.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ionit\Desktop\Everything in one place\facultate\an 3\sem 1\AOS\TemaFinala\PurchasingModule\PurchasingModule.DAL\obj\Debug\netcoreapp2.1\PurchasingModule.DAL.AssemblyInfoInputs.cache
+C:\Users\ionit\Desktop\Everything in one place\facultate\an 3\sem 1\AOS\TemaFinala\PurchasingModule\PurchasingModule.DAL\obj\Debug\netcoreapp2.1\PurchasingModule.DAL.AssemblyInfo.cs
+C:\Users\ionit\Desktop\Everything in one place\facultate\an 3\sem 1\AOS\TemaFinala\PurchasingModule\PurchasingModule.DAL\obj\Debug\netcoreapp2.1\PurchasingModule.DAL.dll
+C:\Users\ionit\Desktop\Everything in one place\facultate\an 3\sem 1\AOS\TemaFinala\PurchasingModule\PurchasingModule.DAL\obj\Debug\netcoreapp2.1\PurchasingModule.DAL.pdb
